@@ -1,0 +1,8 @@
+python-telegram-bot
+requests
+Pillow
+python-dotenv
+arabic-reshaper
+python-bidi
+PyPDF2
+pdf2image
